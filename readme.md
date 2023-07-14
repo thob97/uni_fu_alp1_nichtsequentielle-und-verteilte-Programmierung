@@ -7,6 +7,7 @@ The purpose of this repository is to serve as data storage and to present the co
 - [Course content](#course-content)
 - [Grading](#grading)
 - [Contribution](#contribution)
+- [See also](#see-also)
 
 
 ## Course content
@@ -53,3 +54,6 @@ Die Veranstaltung gliedert sich in drei große Bereiche:
 ## Contribution
 
 * Thore Brehmer - solved all tasks (u1-u11)
+  
+## See also
+* [Uni Overview](https://github.com/thob97/uni_overview.git)
